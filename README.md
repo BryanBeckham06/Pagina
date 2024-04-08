@@ -1,9 +1,6 @@
-# Projeto-Navigator
-### Calculador de idade e juros
+# Minha Pagina
+### Informações Pessoais
 
-# Sobre o projeto:
-- Calculadora de idade: informar a idade com base no ano atual menos o ano do nascimento
-- Calculadora de juros:  informar o juros com base no valor e na porcentagem
 
 # Linguagens:
 - Node.js
@@ -17,7 +14,10 @@
 # Como executar:
 - 1 Clone esse repositório
 - 2 Abra com VsCode
-- 3 Abra o terminal e acesse a pasta ./my-app
+- 3 Abra o terminal e acesse a pasta
+   ```
+  cd Mypage
+  ```
 - 4 Instale as dependências
   ```
   yarn
